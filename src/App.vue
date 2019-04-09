@@ -5,8 +5,7 @@
 </template>
 
 <script>
-import echartDemo from "./components/echart";
-
+import echartDemo from "./components/echarts-demo2";
 export default {
   name: "app",
   components: {
